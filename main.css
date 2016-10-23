@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: hsl(237, 75%, 12%);
+}
+
+#canvas1 {
+    position: absolute;
+    z-index: 0;
+}
+
+#canvas2 {
+    position: absolute;
+    z-index: 1;
+}
